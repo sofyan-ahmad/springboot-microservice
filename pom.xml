@@ -6,11 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mandalalabs</groupId>
-	<artifactId>spring-boot-microservices-series</artifactId>
+	<artifactId>springboot-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>spring-boot-microservices-series</name>
+	<name>springboot-demo</name>
 
 	<modules>
 		<module>config-server</module>
